@@ -31,6 +31,7 @@ contents are subject to change as periodic assessments to personal learning pace
 - 📕 a programmer's guide to computer science vol. 2
 - 📝 cs50ai: introduction to artificial intelligence w/ python
 - 📝 deep learning - andrew ng
+- 📝 deep learning a-z
 - 📕 introduction to algorithms (CLRS) (4th ed)
 - 📝 microsoft azure fundamentals
 - 📝 natural language processing - andrew ng
