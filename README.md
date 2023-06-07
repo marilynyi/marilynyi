@@ -24,18 +24,19 @@ contents are subject to change as periodic assessments to personal learning pace
 - 📕 [elements of ai](https://www.elementsofai.com/)
 - 📝 [machine learning - andrew ng](https://www.coursera.org/specializations/machine-learning-introduction#courses)
 - 📝 [machine learning a-z](https://www.udemy.com/course/machinelearning/)
-- 📕 [machine learning w/ scikit-learn, keras, and tensorflow (3rd ed)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 - 🔐 [postgresql exercises](https://pgexercises.com/)
 
 ### ⏸️ **in the queue** 
-- 📕 a programmer's guide to computer science vol. 2
-- 📝 cs50ai: introduction to artificial intelligence w/ python
-- 📝 deep learning - andrew ng
-- 📝 deep learning a-z
-- 📕 introduction to algorithms (CLRS) (4th ed)
-- 📝 microsoft azure fundamentals
-- 📝 natural language processing - andrew ng
-- 📝 xgboost deep dive w/ python & pandas
+- 📕 [a programmer's guide to computer science vol. 2](https://www.amazon.com/Programmers-Guide-Computer-Science-Vol/dp/1951204042)
+- 📝 [cs50ai: introduction to artificial intelligence w/ python](https://cs50.harvard.edu/ai/2020/)
+- 📕 [deep learning](https://www.deeplearningbook.org/)
+- 📝 [deep learning - andrew ng](https://www.coursera.org/specializations/deep-learning)
+- 📝 [deep learning a-z](https://www.udemy.com/course/deeplearning/)
+- 📕 [introduction to algorithms (CLRS) (4th ed)](http://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+- 📕 [machine learning w/ scikit-learn, keras, and tensorflow (3rd ed)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
+- 📝 [microsoft azure fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+- 📝 [natural language processing - andrew ng](https://www.coursera.org/specializations/deep-learning)
+- 📝 [xgboost deep dive w/ python & pandas](https://www.udemy.com/course/xgboost-deep-dive-hands-on-machine-learning-data-science)
 
 ### ✅ **completed**
 - 📝 [cs50p: introduction to programming w/ python](https://cs50.harvard.edu/python/2022/)
