@@ -1,16 +1,12 @@
 # hey! 
 
 ## 🙋🏻‍♀️ **about me**
-- 💻 currently learning python and sql
-- 👀 interested in machine learning and ai
+- currently learning python and sql
+- interested in machine learning and ai
 
 ## 📚 self-study curriculum
-compiled the following self-study curriculum identified by:
-- 📝 course
-- 📕 reading
-- 🔐 coding practice
-
-contents are subject to change as periodic assessments to personal learning pace are made.
+- compiled the following self-study curriculum identified by 📝 course, 📕 reading, and 🔐 coding practice
+- contents are subject to change as resource ventures and periodic assessments to personal learning pace are made.
 
 ### ️▶️ **actively studying**
 - 📝 [100 days of code: python bootcamp](https://www.udemy.com/course/100-days-of-code/)
