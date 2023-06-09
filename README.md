@@ -2,7 +2,7 @@
 
 ## 🙋🏻‍♀️ **about me**
 - currently learning python and sql
-- interested in machine learning and ai
+- fascinated by psychology, machine learning, and ai
 
 ## 📚 self-study curriculum
 - compiled the following self-study curriculum identified by 📝 course, 📕 reading, and 🔐 coding practice
