@@ -1,12 +1,11 @@
 # hey! 
 
 ## 🙋🏻‍♀️ **about me**
-- currently learning python and sql
-- fascinated by psychology, machine learning, and ai
+- aspiring data scientist learning python, sql, machine learning, and ai
 
-## 📚 self-study curriculum
-- compiled the following self-study curriculum identified by 📝 course, 📕 reading, and 🔐 coding practice
-- contents are subject to change as resource ventures and periodic assessments to personal learning pace are made.
+## 📚 curriculum
+- self-compiled study materials by 📝 course, 📕 reading, and 🔐 coding practice
+- contents are subject to change
 
 ### ️▶️ **actively studying**
 - 📝 [100 days of code: python bootcamp](https://www.udemy.com/course/100-days-of-code/)
@@ -20,18 +19,6 @@
 - 📝 [machine learning - andrew ng](https://www.coursera.org/specializations/machine-learning-introduction#courses)
 - 📝 [machine learning a-z](https://www.udemy.com/course/machinelearning/)
 - 🔐 [postgresql exercises](https://pgexercises.com/)
-
-### ⏸️ **in the queue** 
-- 📕 [a programmer's guide to computer science vol. 2](https://www.amazon.com/Programmers-Guide-Computer-Science-Vol/dp/1951204042)
-- 📝 [cs50ai: introduction to artificial intelligence w/ python](https://cs50.harvard.edu/ai/2020/)
-- 📕 [deep learning](https://www.deeplearningbook.org/)
-- 📝 [deep learning - andrew ng](https://www.coursera.org/specializations/deep-learning)
-- 📝 [deep learning a-z](https://www.udemy.com/course/deeplearning/)
-- 📕 [introduction to algorithms (CLRS) (4th ed)](http://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
-- 📕 [machine learning w/ scikit-learn, keras, and tensorflow (3rd ed)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
-- 📝 [microsoft azure fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
-- 📝 [natural language processing - andrew ng](https://www.coursera.org/specializations/deep-learning)
-- 📝 [xgboost deep dive w/ python & pandas](https://www.udemy.com/course/xgboost-deep-dive-hands-on-machine-learning-data-science)
 
 ### ✅ **completed**
 - 📝 [cs50p: introduction to programming w/ python](https://cs50.harvard.edu/python/2022/)
