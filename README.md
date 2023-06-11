@@ -15,12 +15,12 @@
 - 📝 [automate the boring stuff](https://www.udemy.com/course/automate/)
 - 📝 [dataquest's data scientist](https://www.dataquest.io/path/data-scientist/)
 - 📝 [dataquest's sql fundamentals](https://www.dataquest.io/path/sql-skills/)
-- 📕 [elements of ai](https://www.elementsofai.com/)
+- 📝 [elements of ai](https://www.elementsofai.com/)
 - 📝 [machine learning - andrew ng](https://www.coursera.org/specializations/machine-learning-introduction#courses)
 - 📝 [machine learning a-z](https://www.udemy.com/course/machinelearning/)
 - 🔐 [postgresql exercises](https://pgexercises.com/)
 
 ### ✅ **completed**
-- 📝 [cs50p: introduction to programming w/ python](https://cs50.harvard.edu/python/2022/) (why my may commits are so high 😅)
+- 📝 [cs50p: introduction to programming w/ python](https://cs50.harvard.edu/python/2022/) (why may commits are so high 😅)
 - 📝 [dataquest's apis and web scraping w/ python](https://www.dataquest.io/path/apis-and-web-scraping-with-python-skill-path/)
 - 🔐 [sqlbolt](https://sqlbolt.com/)
