@@ -21,6 +21,6 @@
 - 🔐 [postgresql exercises](https://pgexercises.com/)
 
 ### ✅ **completed**
-- 📝 [cs50p: introduction to programming w/ python](https://cs50.harvard.edu/python/2022/) (why my april commits are so high 😅)
+- 📝 [cs50p: introduction to programming w/ python](https://cs50.harvard.edu/python/2022/) (why my may commits are so high 😅)
 - 📝 [dataquest's apis and web scraping w/ python](https://www.dataquest.io/path/apis-and-web-scraping-with-python-skill-path/)
 - 🔐 [sqlbolt](https://sqlbolt.com/)
