@@ -12,7 +12,6 @@
 - 📕 [a programmer's guide to computer science vol. 1](https://www.amazon.com/Programmers-Guide-Computer-Science-self-taught/dp/195120400X)
 - 📕 [an introduction to statistical learning (2nd ed)](https://www.statlearning.com/)
 - 📕 [artificial intelligence: a modern approach (4th ed)](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997)
-- 📝 [automate the boring stuff](https://www.udemy.com/course/automate/)
 - 📝 [dataquest's data scientist](https://www.dataquest.io/path/data-scientist/)
 - 📝 [dataquest's sql fundamentals](https://www.dataquest.io/path/sql-skills/)
 - 📝 [elements of ai](https://www.elementsofai.com/)
@@ -21,6 +20,7 @@
 - 🔐 [postgresql exercises](https://pgexercises.com/)
 
 ### ✅ **completed**
+- 📝 [automate the boring stuff](https://www.udemy.com/course/automate/)
 - 📝 [cs50p: introduction to programming w/ python](https://cs50.harvard.edu/python/2022/) (why may commits are so high 😅)
 - 📝 [dataquest's apis and web scraping w/ python](https://www.dataquest.io/path/apis-and-web-scraping-with-python-skill-path/)
 - 🔐 [sqlbolt](https://sqlbolt.com/)
