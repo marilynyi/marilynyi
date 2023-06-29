@@ -8,9 +8,16 @@ Marilyn Yi. Aspiring data scientist learning Python, SQL, machine learning, and 
 
 <a href="♥️"><img align="right" src="https://github.com/marilynyi/marilynyi/blob/main/DALL%C2%B7E%202023-06-26%2012.25.40.png" width="200" height="200" /></a>
 
+
 I am an experienced data analyst and spent years in the industry operating on only Microsoft Excel and Google Sheets. Having recently discovered the powerful use cases of machine learning and AI, this ignited a restless desire to add sophistication to my toolkit.
 
 So here begins my 🌱 early ventures in this world and on GitHub to document my [self-teaching journey](https://github.com/marilynyi/self-study-ml-progress). Also to try new things and forever learn with the hope to contribute and collaborate soon!
+
+
+### Tidbits
+- Recently completed Andrew Ng's Machine Learning specialization on Coursera
+- English Breakfast is my favorite tea
+- Affinity for space, science fiction, and heist movies
   
 ![Python](https://img.shields.io/badge/python-2c3333?style=flat&logo=python&logoColor=ffd95a)
 ![NumPy](https://img.shields.io/badge/numpy-2c3333?style=flat&logo=numpy&logoColor=ffd95a)
@@ -24,8 +31,10 @@ So here begins my 🌱 early ventures in this world and on GitHub to document my
 ![PostgreSQL](https://img.shields.io/badge/postgresql-003865?style=flat&logo=postgresql&logoColor=ffd95a)
 
 #
-  
+
 ![](https://komarev.com/ghpvc/?username=marilynyi&color=yellow)
+  
+
 
 
   
