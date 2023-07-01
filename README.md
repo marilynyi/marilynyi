@@ -15,9 +15,9 @@ So here begins my 🌱 early ventures in this world and on GitHub to document my
 
 
 ### Tidbits
-- Recently completed Andrew Ng's Machine Learning specialization on Coursera
-- English Breakfast is my favorite tea
-- Affinity for space, science fiction, and heist movies
+- 📝 Recently completed Andrew Ng's Machine Learning specialization on Coursera
+- ☕️ English Breakfast is my  favorite  tea
+- 🚀 Affinity for space, science fiction, and heist movies
   
 ![Python](https://img.shields.io/badge/python-2c3333?style=flat&logo=python&logoColor=ffd95a)
 ![NumPy](https://img.shields.io/badge/numpy-2c3333?style=flat&logo=numpy&logoColor=ffd95a)
