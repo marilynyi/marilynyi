@@ -13,10 +13,6 @@ I am an experienced data analyst and spent years in the industry operating on on
 
 So here begins my 🌱 early ventures in this world and on GitHub to document my [self-teaching journey](https://github.com/marilynyi/self-study-ml-progress). Also to try new things and forever learn with the hope to contribute and collaborate soon!
 
-### Recent Updates
-- 📝 Completed Andrew Ng's Machine Learning specialization on Coursera
-- 📝 Completed the [Analyzing NYC High School data project](https://github.com/marilynyi/dataquest-data-scientist/blob/main/08_analyzing_nyc_high_school_data/analyzing_nyc_high_school_data.ipynb) on Dataquest
-
 ![Python](https://img.shields.io/badge/python-2c3333?style=flat&logo=python&logoColor=ffd95a)
 ![NumPy](https://img.shields.io/badge/numpy-2c3333?style=flat&logo=numpy&logoColor=ffd95a)
 ![Pandas](https://img.shields.io/badge/pandas-2c3333?style=flat&logo=pandas&logoColor=ffd95a)
