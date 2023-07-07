@@ -13,12 +13,12 @@ I am an experienced data analyst and spent years in the industry operating on on
 
 So begins my 🌱 early ventures in this world and on GitHub to document my [self-teaching journey](https://github.com/marilynyi/self-study-ml-roadmap) as I pivot to and forever learn all things machine learning and data science.
 
-#### ☀️ <samp>current status</samp>
+#### ☀️ <samp>current updates</samp>
 - 📚 learning SQL, Python, ML models, and deep learning
 
 #### ☀️ <samp>recent projects</samp>
 - [cooker clicker bot](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-48/cookie-clicker/) using  selenium for [`/100-days-of-code`](https://github.com/marilynyi/100-days-of-code-python)
-- [breast cancer detection](https://github.com/marilynyi/machine-learning-a-z/blob/main/10-model-selection-and-boosting/10-03-xgboost/breast_cancer_detection_using_xgboost.ipynb) using xgboost for [`/machine-learning-a-z`](https://github.com/marilynyi/machine-learning-a-z)
+- [breast cancer detection](https://github.com/marilynyi/machine-learning-a-z/blob/main/10-model-selection-and-boosting/10-05-all-classification-models/breast_cancer_detection_using_classification_models.ipynb) in jupyter notebook for [`/machine-learning-a-z`](https://github.com/marilynyi/machine-learning-a-z)
 - [analysis of nyc high school data](https://github.com/marilynyi/dataquest-data-scientist/blob/main/08_analyzing_nyc_high_school_data/analyzing_nyc_high_school_data.ipynb) in jupyter notebook for [`/dataquest-data-scientist`](https://github.com/marilynyi/dataquest-data-scientist)
 
 #### 🧰 <samp>toolkit (still growing!)</samp>
