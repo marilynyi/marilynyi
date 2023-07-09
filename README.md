@@ -34,10 +34,6 @@ So begins my early ventures in this world and on GitHub to document my [self-tea
 ![MySQL](https://img.shields.io/badge/mysql-FFEBEB?style=flat&logo=mysql&logoColor=212A3E)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-FFEBEB?style=flat&logo=postgresql&logoColor=212A3E)
 
-#
-
-![](https://komarev.com/ghpvc/?username=marilynyi&color=yellow)
-
 
 
 
