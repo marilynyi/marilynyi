@@ -29,16 +29,16 @@ So begins my early ventures in this world and on GitHub to document my [self-tea
 
 ### 🧰 toolkit
 
-![Python](https://img.shields.io/badge/python-FFFBEB?style=flat&logo=python&logoColor=212A3E)
-![NumPy](https://img.shields.io/badge/numpy-FFFBEB?style=flat&logo=numpy&logoColor=212A3E)
-![Pandas](https://img.shields.io/badge/pandas-FFFBEB?style=flat&logo=pandas&logoColor=212A3E)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-FFFBEB?style=flat&logo=scikitlearn&logoColor=212A3E)
-![VS Code](https://img.shields.io/badge/vs_code-ECF9FF?style=flat&logo=visualstudiocode&logoColor=212A3E)
-![Jupyter](https://img.shields.io/badge/jupyter-ECF9FF?style=flat&logo=jupyter&logoColor=212A3E)
-![Git](https://img.shields.io/badge/git-ECF9FF?style=flat&logo=git&logoColor=212A3E)
-![Markdown](https://img.shields.io/badge/markdown-FFEBEB?style=flat&logo=markdown&logoColor=212A3E)
-![MySQL](https://img.shields.io/badge/mysql-FFEBEB?style=flat&logo=mysql&logoColor=212A3E)
-![PostgreSQL](https://img.shields.io/badge/postgresql-FFEBEB?style=flat&logo=postgresql&logoColor=212A3E)
+![Python](https://img.shields.io/badge/python-ECF8F9?style=flat&logo=python&logoColor=001C30)
+![NumPy](https://img.shields.io/badge/numpy-ECF8F9?style=flat&logo=numpy&logoColor=001C30)
+![Pandas](https://img.shields.io/badge/pandas-ECF8F9?style=flat&logo=pandas&logoColor=001C30)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-ECF8F9?style=flat&logo=scikitlearn&logoColor=001C30)
+![VS Code](https://img.shields.io/badge/vs_code-FAF0D7?style=flat&logo=visualstudiocode&logoColor=001C30)
+![Jupyter](https://img.shields.io/badge/jupyter-FAF0D7?style=flat&logo=jupyter&logoColor=001C30)
+![Git](https://img.shields.io/badge/git-FAF0D7?style=flat&logo=git&logoColor=001C30)
+![Markdown](https://img.shields.io/badge/markdown-F5F5F5?style=flat&logo=markdown&logoColor=001C30)
+![MySQL](https://img.shields.io/badge/mysql-F5F5F5?style=flat&logo=mysql&logoColor=001C30)
+![PostgreSQL](https://img.shields.io/badge/postgresql-F5F5F5?style=flat&logo=postgresql&logoColor=001C30)
 
 #
 
