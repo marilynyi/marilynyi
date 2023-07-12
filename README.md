@@ -1,5 +1,5 @@
 <br>
-<h2 align="center">m a r i l y n . y i ( )</h2>
+<h2 align="center">m a r i l y n . y i</h2>
 
 ### 👋 hello, GitHub!
 
@@ -20,7 +20,7 @@ So begins my early ventures in this world and on GitHub to document my [self-tea
   Bot script to scrape and collect Zillow property information
 - [automate giphy gif likes](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-50/automate-giphy-gif-likes/) for [`/personal-portfolio`](https://github.com/marilynyi/personal-portfolio) and [`/100-days-of-code`](https://github.com/marilynyi/100-days-of-code-python)\
   Bot script to add GIFs to Favorites collection
-- [breast cancer detection](https://github.com/marilynyi/machine-learning-a-z/blob/main/10-model-selection-and-boosting/10-05-all-classification-models/breast_cancer_detection_using_classification_models.ipynb) for [`machine-learning-a-z`](https://github.com/marilynyi/machine-learning-a-z)\
+- [breast cancer detection](https://github.com/marilynyi/machine-learning-a-z/blob/main/10-model-selection-and-boosting/10-05-all-classification-models/breast_cancer_detection_using_classification_models.ipynb) for [`/machine-learning-a-z`](https://github.com/marilynyi/machine-learning-a-z)\
   Comparison of untuned performance results of classification models
 - [analysis of nyc high school data](https://github.com/marilynyi/dataquest-data-scientist/blob/main/08_analyzing_nyc_high_school_data/analyzing_nyc_high_school_data.ipynb) for [`/dataquest-data-scientist`](https://github.com/marilynyi/dataquest-data-scientist)\
   Exploratory analysis of impact of student demographics on SAT score
