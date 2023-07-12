@@ -32,10 +32,6 @@ So begins my early ventures in this world and on GitHub to document my [self-tea
 
 #
 
-### 🙋🏻‍♀️ <samp>github stats</samp></summary>
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marilynyi" alt="github stats"/>
-
 
 
 
