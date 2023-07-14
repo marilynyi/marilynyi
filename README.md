@@ -17,6 +17,7 @@ So begins my early ventures in this world and on GitHub to document my [self-tea
 ### ☀️ recent projects
 
 - [exploring star wars survey](https://github.com/marilynyi/dataquest-data-scientist/blob/main/09_exploring_star_wars_survey/exploring_fivethirtyeight_star_wars_survey.ipynb): Exploratory analysis of FiveThirtyEight's Star Wars survey responses
+- [higher or lower urls](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-55/project/higher-lower): Day 55 project using Flask for a 'Guess the number' game
 - [automate giphy gif likes](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-50/automate-giphy-gif-likes/): Bot script to add GIFs to Favorites collection
 - [analysis of nyc high school data](https://github.com/marilynyi/dataquest-data-scientist/blob/main/08_analyzing_nyc_high_school_data/analyzing_nyc_high_school_data.ipynb): Exploratory analysis of impact of student demographics on SAT score
 
