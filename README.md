@@ -12,18 +12,13 @@ So begins my early ventures in this world and on GitHub to document my [self-tea
 >**current status**: 🌱 <samp>learning SQL, Python, ML models, and deep learning</samp>
 
 ### 🗃️ active repos
-[`/100-days-of-code`](https://github.com/marilynyi/100-days-of-code-python) [`/dataquest-data-scientist`](https://github.com/marilynyi/dataquest-data-scientist)
+[`/100-days-of-code`](https://github.com/marilynyi/100-days-of-code-python) [`/dataquest-data-scientist`](https://github.com/marilynyi/dataquest-data-scientist) [`/personal-portfolio`](https://github.com/marilynyi/personal-portfolio)
 
 ### ☀️ recent projects
 
-- [data entry job automation](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-53/data-entry-job-automation) for [`/100-days-of-code`](https://github.com/marilynyi/100-days-of-code-python)\
-  Bot script to scrape and collect Zillow property information
-- [automate giphy gif likes](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-50/automate-giphy-gif-likes/) for [`/personal-portfolio`](https://github.com/marilynyi/personal-portfolio) and [`/100-days-of-code`](https://github.com/marilynyi/100-days-of-code-python)\
-  Bot script to add GIFs to Favorites collection
-- [breast cancer detection](https://github.com/marilynyi/machine-learning-a-z/blob/main/10-model-selection-and-boosting/10-05-all-classification-models/breast_cancer_detection_using_classification_models.ipynb) for [`/machine-learning-a-z`](https://github.com/marilynyi/machine-learning-a-z)\
-  Comparison of untuned performance results of classification models
-- [analysis of nyc high school data](https://github.com/marilynyi/dataquest-data-scientist/blob/main/08_analyzing_nyc_high_school_data/analyzing_nyc_high_school_data.ipynb) for [`/dataquest-data-scientist`](https://github.com/marilynyi/dataquest-data-scientist)\
-  Exploratory analysis of impact of student demographics on SAT score
+- [exploring star wars survey](https://github.com/marilynyi/dataquest-data-scientist/blob/main/09_exploring_star_wars_survey/exploring_fivethirtyeight_star_wars_survey.ipynb): Exploratory analysis of FiveThirtyEight's Star Wars survey responses
+- [automate giphy gif likes](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-50/automate-giphy-gif-likes/): Bot script to add GIFs to Favorites collection
+- [analysis of nyc high school data](https://github.com/marilynyi/dataquest-data-scientist/blob/main/08_analyzing_nyc_high_school_data/analyzing_nyc_high_school_data.ipynb): Exploratory analysis of impact of student demographics on SAT score
 
 #
 
