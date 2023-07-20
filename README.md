@@ -16,8 +16,8 @@ So begins my early ventures in this world and on GitHub to document my [self-tea
 
 ### ☀️ recent projects
 
+- [blog capstone](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-59/blog-capstone-pt-2): Day 59 project using Flask and Bootstrap to add styling to blog website
 - [exploring star wars survey](https://github.com/marilynyi/dataquest-data-scientist/blob/main/09_exploring_star_wars_survey/exploring_fivethirtyeight_star_wars_survey.ipynb): Exploratory analysis of FiveThirtyEight's Star Wars survey responses
-- [higher or lower urls](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-55/project/higher-lower): Day 55 project using Flask for a 'Guess the number' game
 - [automate giphy gif likes](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-50/automate-giphy-gif-likes/): Bot script to add GIFs to Favorites collection
 - [analysis of nyc high school data](https://github.com/marilynyi/dataquest-data-scientist/blob/main/08_analyzing_nyc_high_school_data/analyzing_nyc_high_school_data.ipynb): Exploratory analysis of impact of student demographics on SAT score
 
@@ -25,16 +25,16 @@ So begins my early ventures in this world and on GitHub to document my [self-tea
 
 ### 🧰 toolkit
 
-![Python](https://img.shields.io/badge/python-ECF8F9?style=flat&logo=python&logoColor=001C30)
-![NumPy](https://img.shields.io/badge/numpy-ECF8F9?style=flat&logo=numpy&logoColor=001C30)
-![Pandas](https://img.shields.io/badge/pandas-ECF8F9?style=flat&logo=pandas&logoColor=001C30)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-ECF8F9?style=flat&logo=scikitlearn&logoColor=001C30)
-![VS Code](https://img.shields.io/badge/vs_code-FAF0D7?style=flat&logo=visualstudiocode&logoColor=001C30)
-![Jupyter](https://img.shields.io/badge/jupyter-FAF0D7?style=flat&logo=jupyter&logoColor=001C30)
-![Git](https://img.shields.io/badge/git-FAF0D7?style=flat&logo=git&logoColor=001C30)
-![Markdown](https://img.shields.io/badge/markdown-F5F5F5?style=flat&logo=markdown&logoColor=001C30)
-![MySQL](https://img.shields.io/badge/mysql-F5F5F5?style=flat&logo=mysql&logoColor=001C30)
-![PostgreSQL](https://img.shields.io/badge/postgresql-F5F5F5?style=flat&logo=postgresql&logoColor=001C30)
+![Python](https://img.shields.io/badge/python-0E2954?style=flat&logo=python&logoColor=efc164)
+![NumPy](https://img.shields.io/badge/numpy-0E2954?style=flat&logo=numpy&logoColor=efc164)
+![Pandas](https://img.shields.io/badge/pandas-0E2954?style=flat&logo=pandas&logoColor=efc164)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-0E2954?style=flat&logo=scikitlearn&logoColor=efc164)
+![VS Code](https://img.shields.io/badge/vs_code-B71375?style=flat&logo=visualstudiocode&logoColor=efc164)
+![Jupyter](https://img.shields.io/badge/jupyter-B71375?style=flat&logo=jupyter&logoColor=efc164)
+![Git](https://img.shields.io/badge/git-B71375?style=flat&logo=git&logoColor=efc164)
+![Markdown](https://img.shields.io/badge/markdown-116A7B?style=flat&logo=markdown&logoColor=efc164)
+![MySQL](https://img.shields.io/badge/mysql-116A7B?style=flat&logo=mysql&logoColor=efc164)
+![PostgreSQL](https://img.shields.io/badge/postgresql-116A7B?style=flat&logo=postgresql&logoColor=efc164)
 
 #
 
