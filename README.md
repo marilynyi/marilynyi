@@ -34,7 +34,7 @@ So begins my early ventures in this world and on GitHub to document my [self-tea
 ![Colab](https://img.shields.io/badge/google--colab-B71375?style=flat&logo=google-colab&logoColor=efc164)
 ![Git](https://img.shields.io/badge/git-B71375?style=flat&logo=git&logoColor=efc164)
 ![Markdown](https://img.shields.io/badge/markdown-116A7B?style=flat&logo=markdown&logoColor=efc164)
-![MySQL](https://img.shields.io/badge/mysql-116A7B?style=flat&logo=mysql&logoColor=efc164)
+![SQLite](https://img.shields.io/badge/sqlite-116A7B?style=flat&logo=sqlite&logoColor=efc164)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-116A7B?style=flat&logo=postgresql&logoColor=efc164)
 
 #
