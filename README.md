@@ -31,6 +31,7 @@ So begins my early ventures in this world and on GitHub to document my [self-tea
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-0E2954?style=flat&logo=scikitlearn&logoColor=efc164)
 ![VS Code](https://img.shields.io/badge/vs_code-B71375?style=flat&logo=visualstudiocode&logoColor=efc164)
 ![Jupyter](https://img.shields.io/badge/jupyter-B71375?style=flat&logo=jupyter&logoColor=efc164)
+![Colab](https://img.shields.io/badge/google--colab-B71375?style=flat&logo=google-colab&logoColor=efc164)
 ![Git](https://img.shields.io/badge/git-B71375?style=flat&logo=git&logoColor=efc164)
 ![Markdown](https://img.shields.io/badge/markdown-116A7B?style=flat&logo=markdown&logoColor=efc164)
 ![MySQL](https://img.shields.io/badge/mysql-116A7B?style=flat&logo=mysql&logoColor=efc164)
