@@ -3,9 +3,9 @@
 
 ### 👋 hello, GitHub!
 
-I am an experienced data analyst and spent years in the industry operating on only Microsoft Excel and Google Sheets. Having recently discovered the powerful use cases of machine learning and AI, this ignited a restless desire to add sophistication to my toolkit.
+I am an experienced data analyst and spent years in the industry operating on Microsoft Excel and Google Sheets. Having recently discovered the powerful use cases of machine learning and AI, this ignited a restless desire to add sophistication to my toolkit.
 
-So begins my early ventures in this world and on GitHub to document my [self-teaching journey](https://github.com/marilynyi/self-study-ml-roadmap) as I pivot to and forever learn all things machine learning and data science.
+My [self-teaching journey](https://github.com/marilynyi/self-study-ml-roadmap) serves to document my ventures as I pivot to and forever learn all things machine learning and data science.
 
 #
 
