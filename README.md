@@ -25,17 +25,17 @@ My [self-teaching journey](https://github.com/marilynyi/self-study-ml-roadmap) s
 
 ### 🧰 toolkit
 
-![Python](https://img.shields.io/badge/python-0E2954?style=flat&logo=python&logoColor=efc164)
-![NumPy](https://img.shields.io/badge/numpy-0E2954?style=flat&logo=numpy&logoColor=efc164)
-![Pandas](https://img.shields.io/badge/pandas-0E2954?style=flat&logo=pandas&logoColor=efc164)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-0E2954?style=flat&logo=scikitlearn&logoColor=efc164)
-![VS Code](https://img.shields.io/badge/vs_code-B71375?style=flat&logo=visualstudiocode&logoColor=efc164)
-![Jupyter](https://img.shields.io/badge/jupyter-B71375?style=flat&logo=jupyter&logoColor=efc164)
-![Colab](https://img.shields.io/badge/google--colab-B71375?style=flat&logo=google-colab&logoColor=efc164)
-![Git](https://img.shields.io/badge/git-B71375?style=flat&logo=git&logoColor=efc164)
-![Markdown](https://img.shields.io/badge/markdown-116A7B?style=flat&logo=markdown&logoColor=efc164)
-![SQLite](https://img.shields.io/badge/sqlite-116A7B?style=flat&logo=sqlite&logoColor=efc164)
-![PostgreSQL](https://img.shields.io/badge/postgresql-116A7B?style=flat&logo=postgresql&logoColor=efc164)
+![Python](https://img.shields.io/badge/python-FFFDFA?style=flat&logo=python&logoColor=203D86)
+![NumPy](https://img.shields.io/badge/numpy-FFFDFA?style=flat&logo=numpy&logoColor=203D86)
+![Pandas](https://img.shields.io/badge/pandas-FFFDFA?style=flat&logo=pandas&logoColor=203D86)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-FFFDFA?style=flat&logo=scikitlearn&logoColor=203D86)
+![VS Code](https://img.shields.io/badge/vs_code-FFFDFA?style=flat&logo=visualstudiocode&logoColor=203D86)
+![Jupyter](https://img.shields.io/badge/jupyter-FFFDFA?style=flat&logo=jupyter&logoColor=203D86)
+![Colab](https://img.shields.io/badge/google--colab-FFFDFA?style=flat&logo=google-colab&logoColor=203D86)
+![Git](https://img.shields.io/badge/git-FFFDFA?style=flat&logo=git&logoColor=203D86)
+![Markdown](https://img.shields.io/badge/markdown-FFFDFA?style=flat&logo=markdown&logoColor=203D86)
+![SQLite](https://img.shields.io/badge/sqlite-FFFDFA?style=flat&logo=sqlite&logoColor=203D86)
+![PostgreSQL](https://img.shields.io/badge/postgresql-FFFDFA?style=flat&logo=postgresql&logoColor=203D86)
 
 #
 
