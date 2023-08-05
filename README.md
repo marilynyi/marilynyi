@@ -16,7 +16,7 @@ My [self-teaching journey](https://github.com/marilynyi/self-study-ml-roadmap) s
 
 ### ☀️ recent projects
 
-- [analyzing popularity of programming languages](https://github.com/marilynyi/100-days-of-code-python/blob/main/days-71-80/day-72/popularity-of-programming-languages/popularity_of_programming_languages.ipynb): Day 72 project analyzing Stack Overflow post tags
+- [analysis of LEGO sets](https://github.com/marilynyi/100-days-of-code-python/blob/main/days-71-80/day-73/lego-analysis/lego_analysis_for_course.ipynb): Day 73 project analyzing LEGO sets using data from Rebrickable
 - [investigating new movie ratings](https://github.com/marilynyi/dataquest-data-scientist/blob/main/13_investigating_new_movie_ratings/investigating_new_movie_ratings.ipynb): Adaptation of the 2015 'Investigating Fandango Movie Ratings' project
 - [exploring star wars survey](https://github.com/marilynyi/dataquest-data-scientist/blob/main/09_exploring_star_wars_survey/exploring_fivethirtyeight_star_wars_survey.ipynb): Exploratory analysis of FiveThirtyEight's Star Wars survey responses
 - [automate giphy gif likes](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-50/automate-giphy-gif-likes/): Bot script to add GIFs to Favorites collection
