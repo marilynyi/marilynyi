@@ -3,9 +3,9 @@
 
 ### 👋 hello, GitHub!
 
-As a data analyst, I spent years in the industry operating on Microsoft Excel and Google Sheets. Having recently discovered the powerful use cases of machine learning and AI, this ignited a restless desire to add sophistication to my toolkit.
+I'm a seasoned data analyst fueled by a restless desire to add sophistication to my toolkit and pivot into machine learning and data science. 
 
-My [self-teaching journey](https://github.com/marilynyi/self-study-ml-roadmap) serves to document my ventures as I pivot to and forever learn all things machine learning and data science.
+GitHub serves to document my [self-teaching roadmap](https://github.com/marilynyi/self-study-ml-roadmap).
 
 #
 
@@ -36,6 +36,17 @@ My [self-teaching journey](https://github.com/marilynyi/self-study-ml-roadmap) s
 ![Markdown](https://img.shields.io/badge/markdown-FFFDFA?style=flat&logo=markdown&logoColor=203D86)
 ![SQLite](https://img.shields.io/badge/sqlite-FFFDFA?style=flat&logo=sqlite&logoColor=203D86)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-FFFDFA?style=flat&logo=postgresql&logoColor=203D86)
+
+
+### 🛠️ in progress
+![TensorFlow](https://img.shields.io/badge/tensorflow-FFFDFA?style=flat&logo=tensorflow&logoColor=203D86)
+![Keras](https://img.shields.io/badge/keras-FFFDFA?style=flat&logo=keras&logoColor=203D86)
+![Plotly](https://img.shields.io/badge/plotly-FFFDFA?style=flat&logo=plotly&logoColor=203D86)
+![PyTorch](https://img.shields.io/badge/pytorch-FFFDFA?style=flat&logo=pytorch&logoColor=203D86)
+![R](https://img.shields.io/badge/r-FFFDFA?style=flat&logo=r&logoColor=203D86)
+![FastAPI](https://img.shields.io/badge/fastapi-FFFDFA?style=flat&logo=fastapi&logoColor=203D86)
+![Docker](https://img.shields.io/badge/docker-FFFDFA?style=flat&logo=docker&logoColor=203D86)
+
 
 #
 
