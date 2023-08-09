@@ -16,10 +16,10 @@ GitHub serves to document my [self-teaching roadmap](https://github.com/marilyny
 
 ### ☀️ recent projects
 
+- [mobile app for lottery addiction](https://github.com/marilynyi/dataquest-data-scientist/blob/main/15_mobile_app_for_lottery_addiction/mobile_app_for_lottery_addiction.ipynb): Probabilities to provide foundational elements for gambling addiction prevention and treatment app
 - [finding the best markets to advertise in](https://github.com/marilynyi/dataquest-data-scientist/blob/main/14_finding_the_best_markets_to_advertise_in/finding_the_best_markets_to_advertise_in.ipynb): freeCodeCamp survey analysis to identify best markets for advertisement strategies
 - [analysis of LEGO sets](https://github.com/marilynyi/100-days-of-code-python/blob/main/days-71-80/day-73/lego-analysis/lego_analysis_for_course.ipynb): Day 73 project analyzing LEGO sets using data from Rebrickable
 - [investigating new movie ratings](https://github.com/marilynyi/dataquest-data-scientist/blob/main/13_investigating_new_movie_ratings/investigating_new_movie_ratings.ipynb): Adaptation of the 2015 'Investigating Fandango Movie Ratings' project
-- [exploring star wars survey](https://github.com/marilynyi/dataquest-data-scientist/blob/main/09_exploring_star_wars_survey/exploring_fivethirtyeight_star_wars_survey.ipynb): Exploratory analysis of FiveThirtyEight's Star Wars survey responses
 
 #
 
