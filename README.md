@@ -1,6 +1,3 @@
-<br>
-<h2 align="center">m a r i l y n . y i</h2>
-
 ### 👋 hello, GitHub!
 
 I'm a seasoned data analyst fueled by a restless desire to add sophistication to my toolkit and pivot into machine learning and data science. 
