@@ -20,6 +20,7 @@
 ![Python](https://img.shields.io/badge/python-FFFDFA?style=flat&logo=python&logoColor=203D86)
 ![NumPy](https://img.shields.io/badge/numpy-FFFDFA?style=flat&logo=numpy&logoColor=203D86)
 ![Pandas](https://img.shields.io/badge/pandas-FFFDFA?style=flat&logo=pandas&logoColor=203D86)
+![Plotly](https://img.shields.io/badge/plotly-FFFDFA?style=flat&logo=plotly&logoColor=203D86)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-FFFDFA?style=flat&logo=scikitlearn&logoColor=203D86)
 ![VS Code](https://img.shields.io/badge/vs_code-FFFDFA?style=flat&logo=visualstudiocode&logoColor=203D86)
 ![Jupyter](https://img.shields.io/badge/jupyter-FFFDFA?style=flat&logo=jupyter&logoColor=203D86)
@@ -33,7 +34,6 @@
 ### 🛠️ in progress
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FFFDFA?style=flat&logo=tensorflow&logoColor=203D86)
 ![Keras](https://img.shields.io/badge/keras-FFFDFA?style=flat&logo=keras&logoColor=203D86)
-![Plotly](https://img.shields.io/badge/plotly-FFFDFA?style=flat&logo=plotly&logoColor=203D86)
 ![PyTorch](https://img.shields.io/badge/pytorch-FFFDFA?style=flat&logo=pytorch&logoColor=203D86)
 ![R](https://img.shields.io/badge/r-FFFDFA?style=flat&logo=r&logoColor=203D86)
 ![FastAPI](https://img.shields.io/badge/fastapi-FFFDFA?style=flat&logo=fastapi&logoColor=203D86)
