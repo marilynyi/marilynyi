@@ -1,8 +1,6 @@
 ### 👋 hello, GitHub!
 #
 
->**current status**: 🌱 <samp>learning SQL, Python, ML models, and deep learning</samp>
-
 ### 🗃️ active repos
 [`/personal-portfolio`](https://github.com/marilynyi/personal-portfolio) [`/100-days-of-code`](https://github.com/marilynyi/100-days-of-code-python) [`/dataquest-data-scientist`](https://github.com/marilynyi/dataquest-data-scientist) [`/self-study-roadmap`](https://github.com/marilynyi/self-study-ml-roadmap)
 
