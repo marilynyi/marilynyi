@@ -24,7 +24,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-FFFDFA?style=flat&logo=scikitlearn&logoColor=203D86)
 ![VS Code](https://img.shields.io/badge/vs_code-FFFDFA?style=flat&logo=visualstudiocode&logoColor=203D86)
 ![Jupyter](https://img.shields.io/badge/jupyter-FFFDFA?style=flat&logo=jupyter&logoColor=203D86)
-![Colab](https://img.shields.io/badge/google--colab-FFFDFA?style=flat&logo=google-colab&logoColor=203D86)
 ![Git](https://img.shields.io/badge/git-FFFDFA?style=flat&logo=git&logoColor=203D86)
 ![Markdown](https://img.shields.io/badge/markdown-FFFDFA?style=flat&logo=markdown&logoColor=203D86)
 ![SQLite](https://img.shields.io/badge/sqlite-FFFDFA?style=flat&logo=sqlite&logoColor=203D86)
