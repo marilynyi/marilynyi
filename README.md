@@ -10,6 +10,7 @@
 
 - [finding markets for e-learning product promotion](https://github.com/marilynyi/dataquest-data-scientist/blob/main/14_finding_the_best_markets_to_advertise_in/finding_the_best_markets_to_advertise_in.ipynb): freeCodeCamp survey analysis to identify best markets for advertisement strategies
 - [investigating new movie ratings](https://github.com/marilynyi/dataquest-data-scientist/blob/main/13_investigating_new_movie_ratings/investigating_new_movie_ratings.ipynb): Adaptation of the 2015 'Investigating Fandango Movie Ratings' project
+- [in-n-out calorie tracker](https://github.com/marilynyi/in-n-out-calorie-tracker): Project submission to conclude Harvard's CS50 online course
 
 #
 
