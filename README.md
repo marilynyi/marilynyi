@@ -8,9 +8,7 @@
 
 ### ☀️ recent projects
 
-- [predicting heart disease](https://github.com/marilynyi/dataquest-data-scientist/blob/main/16_predicting_heart_disease/predicting_heart_disease.ipynb) k-NN classifier model to diagnose heart disease; expanded to include one-hot encoding and cross-validation
-- [mobile app for lottery addiction](https://github.com/marilynyi/dataquest-data-scientist/blob/main/15_mobile_app_for_lottery_addiction/mobile_app_for_lottery_addiction.ipynb): Probabilities to provide foundational elements for gambling addiction prevention and treatment app
-- [finding the best markets to advertise in](https://github.com/marilynyi/dataquest-data-scientist/blob/main/14_finding_the_best_markets_to_advertise_in/finding_the_best_markets_to_advertise_in.ipynb): freeCodeCamp survey analysis to identify best markets for advertisement strategies
+- [finding markets for e-learning product promotion](https://github.com/marilynyi/dataquest-data-scientist/blob/main/14_finding_the_best_markets_to_advertise_in/finding_the_best_markets_to_advertise_in.ipynb): freeCodeCamp survey analysis to identify best markets for advertisement strategies
 - [investigating new movie ratings](https://github.com/marilynyi/dataquest-data-scientist/blob/main/13_investigating_new_movie_ratings/investigating_new_movie_ratings.ipynb): Adaptation of the 2015 'Investigating Fandango Movie Ratings' project
 
 #
